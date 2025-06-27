@@ -8,7 +8,7 @@ Luiz Lima 27
 🏆 Multimedalhista em olimpíadas do conhecimento
 
 👋 Sobre mim
-Sou um entusiasta da matemática e de sua sutil beleza. Atualmente, estudo na EMAp-FGV, onde desenvolvo habilidades em Ciência de Dados, Estatística e Programação. Tenho experiência acadêmica no Novo Ensino Suplementar (NES), auxiliei em projetos de instituições importantes como o banco Stone e Portal de transparência de Maceió.
+Sou um entusiasta da matemática e de sua sutil beleza. Atualmente, estudo na EMAp-FGV, onde desenvolvo habilidades em Ciência de Dados, Estatística e Programação. Tenho experiência acadêmica no Novo Ensino Suplementar (NES), auxiliei em projetos de instituições importantes como o Portal de Transparência de Maceió.
 
 🛠️ Habilidades
 Linguagens: C, Python, Bash
