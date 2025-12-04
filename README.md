@@ -46,7 +46,7 @@ I am an **Applied Mathematics** student at FGV EMAp, driven by a clear vision:
 
 ---
 
-## 🦂 DARK PHILOSOPHY
+## 🦂  PHILOSOPHY
 
 > **“Elegance lies in the essential.  
 > The essential lies in what generates impact.”**
@@ -60,7 +60,7 @@ I believe in clean code, clear models, and practical science —
 
 If you want to talk about applied mathematics, geometry, AI, research or projects:
 
-📩 **luiz.lima@xxxx.com**  
+📩 **luizlima.data@gmail.com**  
 🔗 **LinkedIn, GitHub, or any platform you prefer.**
 
 ---
