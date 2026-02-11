@@ -26,9 +26,8 @@ I am an **Applied Mathematics** student at FGV EMAp, driven by a clear vision:
 ##  TOOLS & TECHNOLOGIES
 
 ### **Languages**
-- **Python** (Modeling, Simulation, ML)  
-- **C** (Data structures, pointers, performance)  
-- **Lean** (Formal logic, proofs, foundations)  
+- **Python** (Modeling, Simulation, POO)  
+- **C** (Data structures, performance)  
 - **LaTeX** (Academic reports and articles)
 
 
