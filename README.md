@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <strong>APPLIED MATHEMATICS • MODELING • ARTIFICIAL INTELLIGENCE</strong>  
+  <strong>APPLIED MATHEMATICS</strong>  
   <br>
 </h3>
 
@@ -27,7 +27,7 @@ I am an **Applied Mathematics** student at FGV EMAp, driven by a clear vision:
 
 ### **Languages**
 - **Python** (Modeling, Simulation, POO)  
-- **C** (Data structures, performance)  
+- **C/C++** (Data structures, performance)
 - **LaTeX** (Academic reports and articles)
 
 
