@@ -28,22 +28,7 @@ I am an **Applied Mathematics** student at FGV EMAp, driven by a clear vision:
 ### **Languages**
 - **Python** (Modeling, Simulation, POO)  
 - **C/C++** (Data structures, performance)
-- **LaTeX** (Academic reports and articles)
 
-
-##  PHILOSOPHY
-
-> **“Elegance lies in the essential.  
-> The essential lies in what generates impact.”**
-
-
-
-## CONTACT
-
-📩 **luizlima.data@gmail.com**  
-🔗 **LinkedIn, GitHub, or any platform you prefer.**
-
----
 
 <div align="center">
   
